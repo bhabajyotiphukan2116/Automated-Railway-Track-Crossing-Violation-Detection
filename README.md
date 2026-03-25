@@ -1,2 +1,2 @@
 # Automated-Railway-Track-Crossing-Violation-Detection
-Railway track crossing violations by pedestrians represent a critical safety hazard, leading to numerous fatali- ties annually. Traditional surveillance methods rely on manual monitoring. This paper presents an automated computer vision-based system for detecting illegal railway track crossings using deep learning and geometric region analysis
+Railway track crossing violations by pedestrians represent a critical safety hazard, leading to numerous fatali- ties annually. Traditional surveillance methods rely on manual monitoring. This paper presents an automated computer vision-based system for detecting illegal railway track crossings using deep learning and geometric region analysis.
